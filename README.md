@@ -96,6 +96,8 @@ The Gradio interface will launch in your browser.
 
 # 📸 Project Preview
 
+![Project Output](output.png)
+
 The application contains:
 
 * Question input textbox
@@ -103,7 +105,6 @@ The application contains:
 * AI-generated streamed responses
 
 ---
-
 # 📂 Project Structure
 
 ```bash
