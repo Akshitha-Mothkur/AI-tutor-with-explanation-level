@@ -108,9 +108,9 @@ The application contains:
 # 📂 Project Structure
 
 ```bash
-├── app.py
+├── ai_tutor.ipynb
 ├── .env
-├── requirements.txt
+├── output.png
 └── README.md
 ```
 
