@@ -29,8 +29,8 @@ Users can ask any question and control the explanation difficulty level using a 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/advanced-ai-tutor.git
-cd advanced-ai-tutor
+git clone https://github.com/Akshitha-Mothkur/AI-tutor-with-explanation-level.git
+cd AI-tutor-with-explanation-level
 ```
 
 ---
